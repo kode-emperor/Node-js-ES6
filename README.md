@@ -1,1 +1,2 @@
-Just Simple node js math module using ES6
+# Math Node Module using ES6
+Just Simple Math through ES6 and lovely node js
